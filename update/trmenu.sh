@@ -76,6 +76,7 @@ red "Permission Denied!"
 exit 0
 fi
 clear
+if [ "$res" = "Expired" ]; then
 Exp="\e[36mExpired\033[0m"
 rm -f /home/needupdate > /dev/null 2>&1
 else
