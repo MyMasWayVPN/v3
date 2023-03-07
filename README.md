@@ -6,8 +6,8 @@
 
 <h2 align="center">
 Auto Script Install VPN Service
-Mod By TARAP KUHING
-Wa : 085754292950
+Mod By MasWayVPN
+Wa : 83120857907
 
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
